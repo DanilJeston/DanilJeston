@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+I'm PartyParrot, the owner and leader of Team Ninety and a student!
+You can call me PartyParrot, Danil, or simply parrot.
+
+## Contact me
+Email: [pp_noeyedeer@outlook.com](mailto:pp_noeyedeer@outlook.com)
+
+## What is Team Ninety?
+[See there](https://github.com/TeamNinety)
+
+
 
 <!--
 **DanilJeston/DanilJeston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
