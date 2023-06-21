@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm PartyParrot, the owner and leader of Team Ninety and a student!
+I'm PartyParrot, the founder, manager and developer of Team Ninety!
 You can call me PartyParrot, Danil, or simply parrot.
 
 ## Contact me
