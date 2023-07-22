@@ -3,7 +3,7 @@ I'm PartyParrot, the founder, manager and developer of Team Ninety!
 You can call me PartyParrot, Danil, or simply parrot.
 
 ## Contact me
-Email: [pp_noeyedeer@outlook.com](mailto:pp_noeyedeer@outlook.com)
+Email: [pp_elpromax@outlook.com](mailto:pp_elpromax@outlook.com)
 
 ## What is Team Ninety?
 [See there](https://github.com/TeamNinety)
