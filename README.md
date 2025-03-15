@@ -5,6 +5,9 @@ You can call me PartyParrot, Danil, or simply parrot.
 ## Contact me
 Email: [pp_elpromax@outlook.com](mailto:pp_elpromax@outlook.com)
 
+## My project
+[DDLC Chinese Modding Guide](https://github.com/DanilJeston/DDLC-Chinese-Modding-Guide)
+
 ## What is Team Ninety?
 [See there](https://github.com/TeamNinety)
 
